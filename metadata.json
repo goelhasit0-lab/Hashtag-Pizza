@@ -1,0 +1,6 @@
+{
+  "name": "Hashtag Pizza",
+  "description": "Premium restaurant website and digital ordering menu for Hashtag Pizza located at RB Complex, Loharpati, Adarshnagar, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

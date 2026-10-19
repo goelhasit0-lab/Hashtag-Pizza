@@ -1,0 +1,28 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="100" fill="#1443B8" />
+  <circle cx="100" cy="100" r="97" stroke="rgba(255,255,255,0.18)" stroke-width="3" />
+  <g id="mascot-hashtag">
+    <path d="M51 68C48 88 47 114 51 133" stroke="#E92C2C" stroke-width="9.5" stroke-linecap="round" />
+    <path d="M66 69C66 90 68 113 67 131" stroke="#E92C2C" stroke-width="9.5" stroke-linecap="round" />
+    <path d="M40 98C49 96 66 94 80 91" stroke="#E92C2C" stroke-width="9.5" stroke-linecap="round" />
+    <path d="M39 116C50 114 65 110 75 107" stroke="#E92C2C" stroke-width="9.5" stroke-linecap="round" />
+    <ellipse cx="58.5" cy="90" rx="8.5" ry="7.5" stroke="#E92C2C" stroke-width="5" fill="none" />
+    <path d="M66 92C71 89 77 84 83 75" stroke="#E92C2C" stroke-width="7" stroke-linecap="round" />
+    <path d="M42 67C40 73 37 80 34 85" stroke="#E92C2C" stroke-width="5.5" stroke-linecap="round" />
+    <path d="M51 64C50 69 48 76 45 81" stroke="#E92C2C" stroke-width="5.5" stroke-linecap="round" />
+    <path d="M59 65C59 70 58 77 56 81" stroke="#E92C2C" stroke-width="5" stroke-linecap="round" />
+    <path d="M71 77L92 70L87 91Z" fill="#FFCA28" stroke="#E92C2C" stroke-width="3.5" stroke-linejoin="round" />
+    <circle cx="80" cy="78" r="2" fill="#E92C2C" />
+    <circle cx="85" cy="80" r="1.8" fill="#E92C2C" />
+    <circle cx="82" cy="85" r="1.8" fill="#E92C2C" />
+  </g>
+  <g id="ashtag-text" fill="#FFFFFF">
+    <path d="M78 94.5H86.5L88 114.5H82.5L82 109H77.5L77 114.5H72L78 94.5ZM78 105.5H81.5L80 99.5L78 105.5Z" />
+    <path d="M89.5 94.5H98.5V99H94V102H98.5V114.5H89.5V110H94V106.5H89.5V94.5Z" />
+    <path d="M100.5 94.5H105.5V102H109.5V94.5H114.5V114.5H109.5V106.5H105.5V114.5H100.5V94.5Z" />
+    <path d="M116 94.5H127V99H123.5V114.5H119V99H116V94.5Z" />
+    <path d="M129 94.5H137.5L139 114.5H133.5L133 109H128.5L128 114.5H123L129 94.5ZM129 105.5H132.5L131 99.5L129 105.5Z" />
+    <path d="M140.5 94.5H150.5V99H145.5V110H149V105.5H146.5V102H152.5V114.5H140.5V94.5Z" />
+  </g>
+  <text x="93" y="145" fill="#FFCA28" font-family="'Brush Script MT', 'Dancing Script', 'Caveat', cursive, sans-serif" font-size="38" font-weight="bold" font-style="italic">Pizza</text>
+</svg>
